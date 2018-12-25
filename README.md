@@ -10,8 +10,23 @@ Necessary packages:
 
 ## Usage
 
-To check the schedule today, run `python main.py` or `python main.py today` or `python main.py tod`.
+To check the schedule today, run
 
-To check the scheedule tomorrow, run `python main.py tomorrow` or `python tom`.
+```bash
+python main.py # OR
+python main.py today # OR
+python main.py tod
+```
 
-To checke the schedule of a specific date, run `python main.py yyyy-mm-dd`.
+To check the scheedule tomorrow, run
+
+```bash
+python main.py tomorrow # OR
+python main.py tom
+```
+
+To checke the schedule of a specific date, run
+
+```bash
+python main.py yyyy-mm-dd
+```
